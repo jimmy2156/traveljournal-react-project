@@ -1,1 +1,1 @@
-# traveljournal-react-project
+# travel-journal-react-project by using custom components 
